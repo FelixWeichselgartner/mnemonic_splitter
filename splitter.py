@@ -95,3 +95,4 @@ for i in range(amount_of_phrases):
         exit()
 print('no errors, you can use this on your own risk. please check the code yourself, since your money is on risk.')
 print()
+input('enter anything to close')
